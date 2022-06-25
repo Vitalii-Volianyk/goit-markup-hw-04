@@ -374,8 +374,7 @@ padding-bottom: 0;
     background-color: var(--light-font);
 }
 .about{
-    width: calc(100%/4-30px);
-    text-align: left;
+    width: calc(100% / 4 - 30px);
     margin: 15px;
 
 }
