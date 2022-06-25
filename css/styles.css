@@ -46,6 +46,10 @@ img{
     padding: 32px 0;
     display: block;
 }
+.contact-link > svg {
+    margin-right: 10px;
+    fill: currentColor;
+}
 .logo{
     font-family: 'Raleway', sans-serif;;
     font-weight: 700;
