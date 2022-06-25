@@ -41,6 +41,8 @@ img{
 }
 svg {
     fill: currentColor;
+    --color1: #212121;
+    --color2: #2196f3;
 }
 /* Styles for header  */
 .header{
