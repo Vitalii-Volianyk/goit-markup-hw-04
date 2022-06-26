@@ -351,6 +351,9 @@ padding-bottom: 0;
 .padding-bot-0 .list{
     margin: -15px;
 }
+.padding-bot-0 .about{
+    width: calc(100% / 4 - 30px);
+}
 .header .container, .list{
     display: flex;
 
@@ -374,7 +377,5 @@ padding-bottom: 0;
     background-color: var(--light-font);
 }
 .about{
-    width: calc(100% / 4 - 30px);
     margin: 15px;
-
 }
